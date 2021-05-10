@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="name">Name:</string>
+    <string name="john_smith">John Smith</string>
+    <string name="number">Number:</string>
+    <string name="_1111_1111">1111 1111</string>
+    <string name="size">Size:</string>
+    <string name="_2">2</string>
+    <string name="smoking">Smoking</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+</resources>
